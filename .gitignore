@@ -1,0 +1,4 @@
+/INTERFACE/TTF/
+*.log
+*.tmp
+/build/

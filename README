@@ -1,0 +1,7 @@
+Bienvenue dans la première version de Plus Or Menos !
+
+2 versions vous sont proposées pour le moment :
+    - CLI
+    - Interface graphique, via MSYS2 (avec GTK+)
+
+La version avec TTF est encore en cours de développement, et sera très prochainement disponible.
